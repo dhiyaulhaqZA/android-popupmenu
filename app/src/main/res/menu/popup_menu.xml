@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_lollipop"
+        android:title="Lollipop"/>
+    <item android:id="@+id/action_marshmallow"
+        android:title="Marshmallow"/>
+    <item android:id="@+id/action_nougat"
+        android:title="Nougat"/>
+</menu>
